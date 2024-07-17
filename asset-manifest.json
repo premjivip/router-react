@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/router-react/static/css/main.ebaa9fa9.css",
+    "main.js": "/router-react/static/js/main.8cb44342.js",
+    "static/js/453.3e49419c.chunk.js": "/router-react/static/js/453.3e49419c.chunk.js",
+    "static/media/college.jpg": "/router-react/static/media/college.91811672bc002500d829.jpg",
+    "static/media/art-exhibition.jpg": "/router-react/static/media/art-exhibition.d0794cacc1bbaaa17d30.jpg",
+    "static/media/sports-day.jpg": "/router-react/static/media/sports-day.296892a6402f5c877c1b.jpg",
+    "static/media/science-fair.jpg": "/router-react/static/media/science-fair.9c75e84b7cc200697080.jpg",
+    "static/media/tech-conference.jpg": "/router-react/static/media/tech-conference.722276251a06bc81273b.jpg",
+    "index.html": "/router-react/index.html",
+    "main.ebaa9fa9.css.map": "/router-react/static/css/main.ebaa9fa9.css.map",
+    "main.8cb44342.js.map": "/router-react/static/js/main.8cb44342.js.map",
+    "453.3e49419c.chunk.js.map": "/router-react/static/js/453.3e49419c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebaa9fa9.css",
+    "static/js/main.8cb44342.js"
+  ]
+}
